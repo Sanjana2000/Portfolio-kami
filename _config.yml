@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics:"UA-122722215-1"
+  google_analytics: "UA-122722215-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
@@ -72,4 +72,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]

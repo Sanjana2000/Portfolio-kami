@@ -4,10 +4,8 @@ title: NoshMusic
 thumbnail-path: "assets/image/Nosh1.jpeg"
 short-description: NoshMusic is a music player where song lists are based on research that eating experience can be influenced by conscious selection of certain types of music and its health benefits.
 ---
-
 {:.center}
-
-![Image]\({{ "portfolio-kami/assets/image/pic2.png"}})
+![Image]({{ site.baseurl }}assets/image/pic2.png)
 
 ## Explanation
 
@@ -74,7 +72,11 @@ has shown that restaurants can bring out sweetness, spiciness, creaminess, or bi
 
 <a href="https://www.weightwatchers.com/us/article/3-surprising-ways-restaurant-music-affects-how-you-eat?otm_medium=onespot&otm_source=onsite&otm_content=article-page:article-page-footer&otm_click_id=8755e379-e937-41c2-a8bc-45112427052f">More info on Weight Watcher here</a>
 
+_Image coming up..._
+
 ![My helpful screenshot]\({{ "/assets/screenshot.jpg" | absolute_url }})
+
+
 
 **3.Music reflects a food of certain region.**
 
@@ -84,7 +86,7 @@ Culturally specific music can put your mind and your mouth in the mood for speci
 
 ### Results
 
-<img src="/assets/image/Nosh1.jpeg">
+_Image coming up..._
 
 ### Conclusion
 

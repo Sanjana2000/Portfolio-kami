@@ -9,20 +9,11 @@ First, let me introduce myself. My name is Sanjana, and
 I’m doing full stack developer internship at Bloc. Starting this internship was a huge leap for me because I had no experience doing web development — and not any programming experience.This field was completely new to me.This is my first blog post.
 
 
-
-
-
-
-
-
-
-
-
 ### **Begin with Basics**
 
->I’ll start off with my journey, including what I gained, what went wrong and what I gave up (yes! I did) along the way.
+I’ll start off with my journey, including what I gained, what went wrong and what I gave up (yes! I did) along the way.
 
->After deciding I wanted to get into web development the first question on my mind was “What should I learn and where do I learn?” After doing lots of research, I ended up choosing my learning path based on what most entry-level web developer positions asked for, which was:
+After deciding I wanted to get into web development the first question on my mind was “What should I learn and where do I learn?” After doing lots of research, I ended up choosing my learning path based on what most entry-level web developer positions asked for, which was:
 
  * _HTML_
 
@@ -38,7 +29,7 @@ I’m doing full stack developer internship at Bloc. Starting this internship wa
 
 * _NodeJS_
 
-…._and still exploring._
+…._and still learning._
 
 + **Here’s how it’s going.**
 
@@ -75,9 +66,9 @@ From here I was introduced advance CSS, JavaScript and jQuery. Using HTML, CSS, 
 + **Take away**
 
 
-I am done less than half of Bloc curriculum. Long way to go. All ups and downs  in my web development journey till here was very interesting.I have learned  technical skills for sure. But the valuable lesson for me was resilience, patience, learn from others web developers and now I have lot of respect for their hard earned skill-set, staying positive and live my other aspects of life too.
+My learning journey is less than half at Bloc. Long way to go. All ups and downs  in my web development journey till here were very interesting and challenging. I have learned  technical skills for sure. But the valuable lesson for me is being persistent while I felt confused and progress was very slow, keeping patience and learn from others web developers.  Now I have newfound respect for their hard earned skill-sets. Staying positive and live my other aspects of life too.
 
-_**........And finally Hard Work beats all odds.**_
+_**........And finally Hard Work and Resilience beats all odds.**_
 
 
 > **Note:** I’ll add more content in this blog as my journey progresses.
