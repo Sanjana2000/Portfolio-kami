@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-kami"
- url: "http://Sanjana2000.github.io"
+baseurl: ""  (optional)
+url: "http://Sanjana2000.github.io"
+
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
