@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
- url: "http://Sanjana2000.github.io" # the base hostname & protocol for your site
+baseurl: "/portfolio-kami"
+ url: "http://Sanjana2000.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
