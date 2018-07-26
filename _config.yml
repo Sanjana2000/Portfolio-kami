@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+baseurl: ""  (optional)
+url: "http://Sanjanadot.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Sanjana Islam
+  title:  Sanjana Islam
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
