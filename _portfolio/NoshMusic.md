@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NoshMusic
-thumbnail-path: "assets/image/Nosh1.jpeg"
+thumbnail-path: "img/blocitoff.png"
 short-description: NoshMusic is a music player where song lists are based on research that eating experience can be influenced by conscious selection of certain types of music and its health benefits.
 ---
 
