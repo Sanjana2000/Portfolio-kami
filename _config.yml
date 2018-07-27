@@ -1,6 +1,8 @@
 # SITE CONFIGURATION
 baseurl: ""  (optional)
+
 url: "http://sanjana2000bc.github.io"
+
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
