@@ -1,7 +1,8 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "http://sanjanadot.com"
+
+url: url: "http://sanjana2000.github.io" # the base hostname & protocol for your site
 
 
 # THEME-SPECIFIC CONFIGURATION
