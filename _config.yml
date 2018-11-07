@@ -2,7 +2,7 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 
-url: url: "http://sanjana2000.github.io" # the base hostname & protocol for your site
+url: "http://sanjana2000.github.io" # the base hostname & protocol for your site
 
 
 # THEME-SPECIFIC CONFIGURATION
